@@ -8,7 +8,7 @@
     wheelSpeed: 10,
     wheelPropagation: false
   };
-
+// else
   $.fn.perfectScrollbar = function (suppliedSettings, option) {
 
     return this.each(function() {
